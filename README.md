@@ -1,6 +1,11 @@
+
+Code file contains implementation of English to hindi translation on below mentioned dataset. The code is taken from pytorch implementation of german to english from: https://pytorch.org/tutorials/beginner/translation_transformer.html
+ Above this Blue score metrics is added for evaluation.
 # Translationsubtext
 subset of hindi to english data taken from samnantar
-
+No. of training sentences = 57158
+No. of test sentences = 1715
+No. of validation sentences = 1715
 
 CITATION
 @misc{ramesh2021samanantar,
